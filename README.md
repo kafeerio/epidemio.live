@@ -3,7 +3,7 @@
 
 Source code of the website [Epidemio Live](https://epidemio.live).
 
-A website that provides information on the current status of the COVID-19 pandemic.
+A website that provides information on the current status of the rapid spread of localized diseases.
 
 
 ## Copyright
