@@ -8,7 +8,7 @@ A website that provides information on the current status of the COVID-19 pandem
 
 ## Copyright
 
-Copyright &copy; 2021 [Kafeerio](https://kafeerio.org).
+Copyright &copy; 2022 [Kafeerio](https://kafeerio.org).
 
 
 ## License
